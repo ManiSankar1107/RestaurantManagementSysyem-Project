@@ -8,7 +8,7 @@ public class DBConnection {
     // Database credentials - *CHANGE THESE TO YOUR ACTUAL DATABASE DETAILS*
     private static final String URL = "jdbc:mysql://localhost:3306/student";
     private static final String USER = "root"; // e.g., "root" or your custom user
-    private static final String PASSWORD = "Mani1107"; // e.g., "root" or your custom password
+    private static final String PASSWORD = "enter password"; // e.g., "root" or your custom password
 
     // Static block to load the JDBC driver
     static {
